@@ -1,0 +1,52 @@
+#head-col {
+  width: 100% !important;
+  }
+  
+ 
+  ul {
+  font-size : 26px ;
+  }
+  .table td,
+  .table th {
+  vertical-align: middle !important;
+  }
+  
+  .fa-times {
+  color : red !important ;
+  }
+  .fa-plus, 
+  .fa-minus {
+  border : 5px solid rgb(136, 136, 139) !important;
+  background-color :  rgb(136, 136, 139) !important;
+  color: white !important 
+  font-size : 10px !important ;
+  margin : 0 5px !important;
+  }
+  .pruducts {
+  padding : 10px;
+  }
+  .table {
+  margin :26px auto !important ;
+  width : 95% !important;
+  top: 11px !important;
+  background-color : rgb(245, 240, 240);
+  border-radius:8px;
+  }
+  .red{
+  color: red;
+  }
+  body {
+  font-family : cambria, cochin, georgia, times, "times new thing", serif;
+  }
+  li {
+  list-style: none;
+  }
+  .product {
+   display: flex;
+   justify-content: space-around;
+  align-items: center;
+  }
+  
+
+
+
